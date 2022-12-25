@@ -9,7 +9,7 @@ See https://439100.ro and https://svx.439100.ro to check a live one called Zello
 
 All needed instructions on how to set it up for your own use can be found on the virtual machine's desktop.
 
-To understand what it contains, how it was made and how you can replicate it from scratch if you want, check the pdf file ZGW.pdf.
+To understand what it contains, how it was made and how you can replicate it from scratch if you want, check the pdf file ZelloSvxLink.pdf.
 
 To open the machine, download it from the link and open it in Virtualbox on your PC / Server with FIle>Import Applicance.
 
