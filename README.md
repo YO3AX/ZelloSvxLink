@@ -13,6 +13,8 @@ To understand what it contains, how it was made and how you can replicate it fro
 
 To open the machine, download it from the link and open it in Virtualbox on your PC / Server with FIle>Import Applicance.
 
+Link to VM download (circa 4.8 GB): https://s.go.ro/zhxnh8c4
+
 Test it and if you find it useful feel free to send me a QSL card which I will much appreciate.
 
 73 de YO3AGC, the shackless ham
