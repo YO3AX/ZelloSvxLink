@@ -1,7 +1,7 @@
 # ZelloSvxLink
 If you're into Ham Radio, Svxlink and Zello, you may like this.
 
-It's a virtual machine that can be used as a POC (Packet Over Cellular) / Network Radio (Zello) svxlink node.
+It's a virtual machine that can be used as a POC (PTT Over Cellular) / Network Radio (Zello) svxlink node.
 
 You can also set it up and use it as an outerlink to Zello for any Svxlink Analogic Network Reflector.
 
