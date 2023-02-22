@@ -15,10 +15,8 @@ To open the machine, download it from the link and open it in Virtualbox on your
 
 Link to VM download (circa 4.8 GB): https://s.go.ro/zhxnh8c4
 
-Test it and if you find it useful feel free to send me a QSL card which I will much appreciate.
+Test it and if you find it useful or put it into practice for your national reflector, please let me know (https://t.me/yo3agc) and why not, invite my callsign in your Zello channel. :)
 
-73 de YO3AGC, the shackless ham
+73 de YO3AGC
 
 https://QRZ.com/db/YO3AGC
-
-t.me/yo3agc
