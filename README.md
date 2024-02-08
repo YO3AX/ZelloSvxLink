@@ -13,7 +13,8 @@ To understand what it contains, how it was made and how you can replicate it fro
 
 To open the machine, download it from the link and open it in Virtualbox on your PC / Server with FIle>Import Applicance.
 
-Link to VM download (circa 4.8 GB): https://s.go.ro/zhxnh8c4
+OBSOLETE: Link to VM download (circa 4.8 GB): https://s.go.ro/zhxnh8c4
+UPDATE: In the meanwhile I created also a copy of the machine that uses svxlink-usrp branch and dvswitch in order to connect Zello channel to a digital network. Future plans are to retrieve the talker info + TG from SVXLINK log and send it as a message in Zello channel. If you are interested in any of the machines please contact me and I can provide a customized (for your use case) copy of the machine, ready to run in Proxmox virtualization server (pre-requisite). In alternative you can convert the disk to anything you want and use different virtualization tool.
 
 Test it and if you find it useful or put it into practice for your national reflector, please let me know (https://t.me/yo3ax) and why not, invite my callsign in your Zello channel. :)
 
