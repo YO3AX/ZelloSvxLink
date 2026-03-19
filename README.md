@@ -1,9 +1,18 @@
 # ZelloSvxLink
 2026 March Update: This solution is OBSOLETE.
-I no longer use this solution, after latest Zello actions to get rid of legacy clients. (see https://support.zello.com/hc/en-us/articles/36830119152397-2025-Service-Changes and https://paidsupport.zello.com/hc/en-us/articles/38073102837389-Information-about-sunsetting-older-Zello-apps-August-2025)
-I have rebuild the DMR to Zello RX only links using ths solution of https://github.com/mattmelling (https://github.com/mattmelling/asl-zello-bridge) with help from YO3BEE (https://github.com/bogdan790)
+I no longer use this solution, after latest Zello actions to get rid of legacy clients.
+(
+see https://support.zello.com/hc/en-us/articles/36830119152397-2025-Service-Changes
+and
+https://paidsupport.zello.com/hc/en-us/articles/38073102837389-Information-about-sunsetting-older-Zello-apps-August-2025
+)
+
+I have rebuild the DMR to Zello RX only links using ths solution of https://github.com/mattmelling (https://github.com/mattmelling/asl-zello-bridge) with help from YO3BEE (https://github.com/bogdan790).
+
 Other analogic only 2 way links in YO have been rebuilt using the same solution or this one https://hamlink.app/hambridge/ of YO3TCO (a spanish how to here: https://ea5gvk-dmr.zigor.es/2025/12/29/nueva-aplicacion-hambridge-para-realizar-crosslilnk-entre-zello-y-svxlink-creada-por-chris-yo3tco/)
+
 73!
+
 ---------------------------------
 If you're into Ham Radio, Svxlink and Zello, you may like this.
 
